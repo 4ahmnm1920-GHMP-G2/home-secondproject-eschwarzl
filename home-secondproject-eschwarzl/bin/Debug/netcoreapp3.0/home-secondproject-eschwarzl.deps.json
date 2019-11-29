@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "home-secondproject-eschwarzl/1.0.0": {
+        "runtime": {
+          "home-secondproject-eschwarzl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "home-secondproject-eschwarzl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
